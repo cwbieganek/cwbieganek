@@ -1,6 +1,6 @@
 # About Me
 
-Hi there! My name is Chris Bieganek. I am a GIS Designer located in Minnetonka, MN. I specialize in creating GIS web applications and geoprocessing scripts. I primarily use Web Application Builder and Dashboards to create GIS web to create web application using out of the box widgets.
+Hi there! My name is Chris Bieganek. I am a GIS Designer located in Minnetonka, MN. I specialize in creating GIS web applications and geoprocessing scripts. I primarily use Web Application Builder and Dashboards to create GIS web to create web applications using out of the box widgets.
 
 I am currently working on expanding my portfolio of custom GIS web applications using the ArcGIS API for JavaScript and OpenLayers. I also recently got hooked on the Rust programming language, and I look forward to exploring that more once I have several custom GIS web applications under my belt.
 
