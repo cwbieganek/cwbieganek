@@ -17,6 +17,6 @@ These are the programming languages and technologies that I have used:
 
 # Projects
 
-- GIS web application that allows downloading of WFS layers in the web map. Uses OpenLayers, Material UI, and GeoServer. [Demo](https://ol-gs-download-widget.pages.dev/) | [Repo](https://github.com/cwbieganek/ol-gs-download-widget)
-- To Do List application. Built using SvelteKit and TypeScript. [Demo](https://svelte-todo-list-cpv.pages.dev/) | [Repo](https://github.com/cwbieganek/svelte-todo-list)
+- GIS web application that allows downloading of WFS layers in the web map. Uses OpenLayers, Material UI, and GeoServer. This one does not have a demo running 24/7 since it requires paying for a VM running GeoServer. [Repo](https://github.com/cwbieganek/ol-gs-download-widget)
+- To Do List application. Overused, but a classic. I was amazed at how easy this was to build with Svelte. Uses SvelteKit and TypeScript. [Demo](https://svelte-todo-list-cpv.pages.dev/) | [Repo](https://github.com/cwbieganek/svelte-todo-list)
 - Table Filter Builder application that allows the user to build and apply a filter to a data table. Built using React, Blueprint components, and TypeScript. [Demo](https://table-filter-builder.pages.dev/) | [Repo](https://github.com/cwbieganek/table-filter-builder)
